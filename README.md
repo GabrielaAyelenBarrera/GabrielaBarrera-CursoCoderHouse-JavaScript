@@ -161,18 +161,12 @@ Verificar que:
 ![...](docs/images/home2.png)
 
 
----
-
-⚡ Real Time Products
+## ⚡ Real Time Products
 ![...](docs/images/real1.png)
 ![...](docs/images/real2.png)
 
 
-
-
----
-
-📦 API Products
+## 📦 API Products
 ![...](docs/images/api.png)
 
 
